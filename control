@@ -1,0 +1,9 @@
+Package: com.quietunderwear.rounddock
+Name: RoundDock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Makes the dock round on non-notched devices using a bug discovered by NoisyFlake. I made this for myself because NoisyFlake's tweak allowed for 5 icons in the dock which I did not want on the small SE screen.
+Maintainer: QuietUnderwear
+Author: QuietUnderwear
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
